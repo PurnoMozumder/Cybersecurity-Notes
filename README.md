@@ -19,4 +19,4 @@ Welcome to my cybersecurity learning journey.
 
 Become a Cybersecurity Professional.
 
-Thank you for visiting my repository! 😊
+Thank you for visiting my repository! 
