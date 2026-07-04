@@ -1,4 +1,4 @@
-# Cybersecurity-Notes
+#🛡️ Cybersecurity-Notes
 
 Hello! I'm Purno Mozumder.
 Welcome to my cybersecurity learning journey.
@@ -6,14 +6,19 @@ Welcome to my cybersecurity learning journey.
 
 ## 📚 Currently Learning
 
-- Linux
-- Networking
-- Python
-- Git & GitHub
-- Nmap
-- Wireshark
-- TryHackMe
-- Ethical Hacking
+-🐧 Linux
+-🌐 Networking
+- 🐍Python
+- 🔀Git & GitHub
+- 📡Nmap
+-🦈 Wireshark
+-🥊 TryHackMe
+-👨‍💻 Ethical Hacking
+
+📂 Repository Structure
+Linux/ - My Linux notes and commands.
+Networking/ - Networking basics and protocols.
+TryHackMe/ - Walkthroughs and notes from THM rooms.
 
 ### 🎯 Goal
 
