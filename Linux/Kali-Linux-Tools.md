@@ -142,5 +142,4 @@ All tools and techniques documented here are practiced strictly in **legal, auth
  
 Explore the folders above for detailed tool guides. Suggestions and contributions are always welcome!
  
-**Thank you for visiting my repository!** ⭐
- 
+**Thank you for visiting my repository!** ⭐ 
