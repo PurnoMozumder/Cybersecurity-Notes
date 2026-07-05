@@ -15,10 +15,46 @@ Welcome to my cybersecurity learning journey.
 -🥊 TryHackMe
 -👨‍💻 Ethical Hacking
 
-📂 Repository Structure
-Linux/ - My Linux notes and commands.
-Networking/ - Networking basics and protocols.
-TryHackMe/ - Walkthroughs and notes from THM rooms.
+Cybersecurity-Notes/
+│
+├── README.md
+│
+├── Linux/
+│   ├── Basic-Commands.md
+│   ├── File-System.md
+│   ├── Permissions.md
+│   ├── Users-and-Groups.md
+│   ├── Processes.md
+│   ├── Networking.md
+│   └── Shell-Scripting.md
+│
+├── Networking/
+│   ├── Basic-Networking.md
+│   ├── OSI-Model.md
+│   ├── TCP-IP.md
+│   ├── Common-Ports.md
+│   ├── DNS.md
+│   ├── HTTP-HTTPS.md
+│   └── Network-Troubleshooting.md
+│
+├── Cryptography/
+│   ├── Hashing.md
+│   ├── Caesar-Cipher.md
+│   ├── AES.md
+│   ├── RSA.md
+│   └── Digital-Signatures.md
+│
+├── Web-Security/
+│
+├── Python/
+│
+├── Tools/
+│
+├── TryHackMe/
+│
+├── HackTheBox/
+│
+└── Resources/
 
 ### 🎯 Goal
 
